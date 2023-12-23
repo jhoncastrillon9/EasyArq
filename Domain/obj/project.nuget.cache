@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ftz9oo2s/J6bUIgT2b7gwwDj3NZzuhYkp31yh19U9A5R5JQWc3/LAVVRw2k6mARs0V+sT2k/3JAExk79d0VOkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JhonK\\Documents\\EasyArq\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JhonK\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\JhonK\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\JhonK\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
